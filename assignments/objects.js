@@ -57,12 +57,16 @@ const internFive = {
 console.log(internOne.firstName);
 
 // Kennan's ID
+console.log(internTwo.id);
 
 // Keven's email
+console.log(internThree.email);
 
 // Gannie's name
+console.log(internFour.firstName);
 
 // Antonietta's Gender
+console.log(internFive.gender);
 
 // ==== Challenge 3: Object Methods ==== 
 // Give Kennan the ability to say "Hello, my name is Kennan!" Use the console.log provided as a hint.
