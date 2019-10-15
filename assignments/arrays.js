@@ -111,7 +111,7 @@ let oldCars = function(){
   let cars = []
   for (let i = 0; i < carYears().length; i ++){
     if(carYears()[i] < 2000) {
-      count++;
+
     }
   };
   return cars;
